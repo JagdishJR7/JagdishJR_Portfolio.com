@@ -1,0 +1,12 @@
+const contents = {
+    description: `
+    <p>Jyly 2024 - July 2024</p>  
+    <p>This image gallery is a showcase of stunning visuals, carefully curated to inspire and captivate. Whether you're a designer, photographer, or simply an art lover, you'll find a collection of high-quality images ready for download. Explore the beauty of the world through our lens and elevate your projects with breathtaking visuals. Dive into a world of color, composition, and creativity.</p>,
+    `
+    details: `<p>Our image gallery is built with a focus on aesthetics and functionality, ensuring a seamless experience for every visitor. Each image is available in high resolution and can be easily downloaded for personal or commercial use. The gallery is powered by modern web technologies, including HTML, CSS, and JavaScript, to create a responsive and visually appealing layout. Discover the story behind each image and the techniques used to capture them.</p>,
+    `
+    links: `<p>Explore more about this project and access the source code on GitHub. Whether you're interested in the technical aspects of how this gallery was built or want to contribute to its development, our GitHub repository is the place to be. Click the link below to visit the GitHub page and delve into the code that brings this beautiful gallery to life. Your feedback and contributions are always welcome!</p>
+<p><a href="https://github.com/JagdishJR7/CodeAlpha_Image_Gallery" target="_blank" class="text-indigo-500 underline">Visit the GitHub Repository</a></p>
+<p><a href="https://www.loom.com/share/43008b705c194197a4a32a3c929892d7?sid=a6fc0a32-7608-40ac-98ed-fedf39fc7195" target="_blank" class="text-indigo-500 underline">Watch Demo Video</a></p>
+`
+};
